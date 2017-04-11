@@ -1,0 +1,9 @@
+c:\users\ugur\documents\visual studio 2015\Projects\yereDusenCisimlerClass\yereDusenCisimlerClass\bin\Debug\yereDusenCisimlerClass.exe.config
+c:\users\ugur\documents\visual studio 2015\Projects\yereDusenCisimlerClass\yereDusenCisimlerClass\bin\Debug\yereDusenCisimlerClass.exe
+c:\users\ugur\documents\visual studio 2015\Projects\yereDusenCisimlerClass\yereDusenCisimlerClass\bin\Debug\yereDusenCisimlerClass.pdb
+c:\users\ugur\documents\visual studio 2015\Projects\yereDusenCisimlerClass\yereDusenCisimlerClass\obj\Debug\yereDusenCisimlerClass.csprojResolveAssemblyReference.cache
+c:\users\ugur\documents\visual studio 2015\Projects\yereDusenCisimlerClass\yereDusenCisimlerClass\obj\Debug\yereDusenCisimlerClass.Form1.resources
+c:\users\ugur\documents\visual studio 2015\Projects\yereDusenCisimlerClass\yereDusenCisimlerClass\obj\Debug\yereDusenCisimlerClass.Properties.Resources.resources
+c:\users\ugur\documents\visual studio 2015\Projects\yereDusenCisimlerClass\yereDusenCisimlerClass\obj\Debug\yereDusenCisimlerClass.csproj.GenerateResource.Cache
+c:\users\ugur\documents\visual studio 2015\Projects\yereDusenCisimlerClass\yereDusenCisimlerClass\obj\Debug\yereDusenCisimlerClass.exe
+c:\users\ugur\documents\visual studio 2015\Projects\yereDusenCisimlerClass\yereDusenCisimlerClass\obj\Debug\yereDusenCisimlerClass.pdb
